@@ -16,7 +16,7 @@
 <!-- ===================== ARTWORK SPACE ===================== -->
 <p align="center">
   <!-- You can place your custom artwork GIF or SVG here -->
-  <img src="https://via.placeholder.com/900x250/111827/ffffff?text=Your+Custom+Artwork+Here" />
+  <img src="https://in.pinterest.com/pin/834784480962353606/" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ I collaborate closely with cross-functional teams to transform complex requireme
 </p>
 
 <p align="center">
-🌐 Portfolio: <a href="https://vishal-folio.vercel.app/">your-portfolio-link.com</a>
+ <a href="https://vishal-folio.vercel.app/">🌐 Visit My Portfolio</a>
 </p>
 
 ---
