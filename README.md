@@ -5,6 +5,8 @@
 
 <!-- ===================== TYPING HEADER ===================== -->
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Designing+High-Performance+Systems;Backend-for-Frontend+Specialist;Turning+Complexity+Into+Clean+Architecture" />
+
 <!-- STATIC STATEMENT (NOT ANIMATED) -->
 <h3 align="center">Engineering scalable digital products from idea to production.</h3>
 
