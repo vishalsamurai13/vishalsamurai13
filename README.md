@@ -15,8 +15,11 @@
 
 <!-- ===================== ARTWORK SPACE ===================== -->
 <p align="center">
-  <!-- You can place your custom artwork GIF or SVG here -->
-  <img src="https://in.pinterest.com/pin/834784480962353606/" />
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnI3NXMzNDgyaWw3aW1uOGcyNDRpcnRzbHZ1M3hva2JxM210eHQ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zeDVACztUc43ltMmmP/giphy.gif"
+    width="100%"
+    style="max-width:900px;"
+  />
 </p>
 
 ---
