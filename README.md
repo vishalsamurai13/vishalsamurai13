@@ -4,9 +4,6 @@
 </p>
 
 <!-- ===================== TYPING HEADER ===================== -->
-<p align="center">
-  <img src="/giyu.gif" width="800" height="600" />
-</p>
 
 <!-- STATIC STATEMENT (NOT ANIMATED) -->
 <h3 align="center">Engineering scalable digital products from idea to production.</h3>
@@ -16,7 +13,7 @@
 <!-- ===================== ARTWORK SPACE ===================== -->
 <p align="center">
   <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnI3NXMzNDgyaWw3aW1uOGcyNDRpcnRzbHZ1M3hva2JxM210eHQ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zeDVACztUc43ltMmmP/giphy.gif"
+    src="/giyu.gif"
     width="100%"
     style="max-width:900px;"
   />
