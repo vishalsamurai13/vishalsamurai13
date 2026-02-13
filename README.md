@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Designing+High-Performance+Systems;Backend-for-Frontend+Specialist;Turning+Complexity+Into+Clean+Architecture" />
+  <img src="/giyu.gif" width="800" height="600" />
 </p>
 
 <!-- STATIC STATEMENT (NOT ANIMATED) -->
